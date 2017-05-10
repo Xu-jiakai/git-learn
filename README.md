@@ -17,4 +17,4 @@ learning with git
 	只能夠知道大小之類的改動;
 	
 3.git status   告訴你有文件被修改過,
-  git diff 	查看修改的內容
+  git diff     查看修改的內容
