@@ -17,6 +17,7 @@ learning with git
 	只能夠知道大小之類的改動;
 	
 3.git status   告訴你有文件被修改過
+
 4.git diff     查看修改的內容
   
 5.使用git push时提示有问题，查找发现是git找不到要提交的版本，使用git push origin master解决
