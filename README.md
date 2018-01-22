@@ -16,5 +16,9 @@ learning with git
 	新增或刪除都會詳細地表現出來,某某行修改了某某內容;而對於圖片,視頻,包括Word文檔這類二進制文件,
 	只能夠知道大小之類的改動;
 	
-3.git status   告訴你有文件被修改過,
+3.git status   告訴你有文件被修改過
   git diff     查看修改的內容
+  
+4.使用git push时提示有问题，查找发现是git找不到要提交的版本，使用git push origin master解决
+
+
